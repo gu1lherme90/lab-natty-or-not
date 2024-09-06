@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Inteligência Artificial: Explorando o Futuro da Tecnologia.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 5 páginas explora o impacto revolucionário das IAs no nosso dia a dia e como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e criação da arte visual do e-book;
+Ferramenta Word para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi usado o ChatGPT para ter ideias sobre o futuro das IAs, organizar o conteúdo e também criar imagens para o e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo interessantíssimo, exemplificando como as IAs podem e poderão ser usadas na educação e na disseminação do conhecimento.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Pude conhecer ainda mais o poder promissor das IAs e o que elas farão por nós 
 ```
 
 ### Exemplos e Insigths
